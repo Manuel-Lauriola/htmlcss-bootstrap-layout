@@ -1,5 +1,5 @@
 .box {
-  height: 200px;
   border: solid black 2px;
-  background-color: aqua;
+  /* .h-100 */
+  height: 100%;
 }
